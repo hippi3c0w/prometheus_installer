@@ -1,0 +1,13 @@
+http://ftp.es.debian.org/debian/pool/main/t/twitter-bootstrap3/libjs-bootstrap_3.4.1+dfsg-1_all.deb
+http://ftp.es.debian.org/debian/pool/main/t/twitter-bootstrap3/fonts-glyphicons-halflings_1.009~3.4.1+dfsg-1_all.deb
+http://ftp.es.debian.org/debian/pool/main/e/eonasdan-bootstrap-datetimepicker/libjs-eonasdan-bootstrap-datetimepicker_4.17.47-3_all.deb
+http://ftp.es.debian.org/debian/pool/main/j/jquery/libjs-jquery_3.3.1~dfsg-1_all.deb
+http://ftp.es.debian.org/debian/pool/main/n/node-moment/libjs-moment_2.24.0+ds-1_all.deb
+http://ftp.es.debian.org/debian/pool/main/libj/libjs-jquery-hotkeys/libjs-jquery-hotkeys_0~20130707+git2d51e3a9+dfsg-2_all.deb
+http://ftp.es.debian.org/debian/pool/main/m/moment-timezone.js/libjs-moment-timezone_0.5.23+dfsg1-1_all.deb
+http://ftp.es.debian.org/debian/pool/main/m/mustache.js/libjs-mustache_2.3.2-1_all.deb
+http://ftp.es.debian.org/debian/pool/main/r/rickshaw/libjs-rickshaw_1.5.1.dfsg-2_all.deb
+http://ftp.es.debian.org/debian/pool/main/d/d3/libjs-d3_3.5.17-2_all.deb
+http://ftp.es.debian.org/debian/pool/main/d/daemon/daemon_0.6.4-1+b2_amd64.deb
+http://ftp.es.debian.org/debian/pool/main/p/prometheus/prometheus_2.7.1+ds-3+b10_amd64.deb
+http://ftp.es.debian.org/debian/pool/main/p/prometheus-node-exporter/prometheus-node-exporter_0.13.0+ds-1+b2_amd64.deb

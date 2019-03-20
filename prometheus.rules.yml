@@ -1,0 +1,12 @@
+groups:
+- name: Systems CPU Percentage
+  rules:
+  - record: systems:cpu_percentage_usage
+    expr: 100 - (avg by (instance) (irate(node_cpu{mode="idle"}[1m])) * 100)
+  - alert: AlertHighUseOfCPU
+    expr: systems:cpu_percentage_usage < 30
+    for: 2m
+    labels:
+      severity: page
+    annotations:
+      summary: High CPU Usage
